@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    github:  https://github.com/kunalArneja
-    linkedin: https://www.linkedin.com/in/kunal-arneja-007835115/
+    github:  kunalArneja
+    linkedin: kunal-arneja-007835115/
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
